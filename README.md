@@ -1,6 +1,6 @@
 # Andreas Duess
 
-I run [Duess Strategies](https://duess.com), where I help agricultural export organisations put AI to work, and I am CEO and co-founder of [FishDog](https://fish.dog), a synthetic population platform. Before that: ten years in London advertising, including the European launches of Google Ads and Autonomy, then sixteen years building Nourish, a food marketing agency in Toronto, sold in 2023. I teach AI strategy at Ivey Business School and write the Future Bites column for Food in Canada.
+I run [Duess Strategies](https://duess.com), where I help my clients put AI to work, and I am CEO and co-founder of [FishDog](https://fish.dog), a synthetic population platform. Before that: ten years in London advertising, including the European launches of Google Ads and Autonomy, then sixteen years building Nourish, a marketing agency in Toronto, sold in 2023. I teach AI strategy at Ivey Business School and write the Future Bites column for Food in Canada.
 
 Most of what is here I built with Claude Code.
 
